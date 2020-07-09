@@ -1,0 +1,19 @@
+{
+  "name": "micronodeserver",
+  "version": "1.0.0",
+  "description": "A MicroNodeServer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "node-media-server": "^2.1.9",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
